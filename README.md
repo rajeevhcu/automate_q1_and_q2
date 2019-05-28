@@ -1,5 +1,5 @@
 # automate_q1_and_q2
-##automation of summary report
+## automation of summary report
 ## To run application locally, do setup
 ### Install the dependencies 
     
