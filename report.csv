@@ -1,0 +1,417 @@
+ticker,perm_id,name,summary_level,contextual_level
+CY US,PD8ZY6-S-US,Cypress Semiconductor,0,1
+HP US,RCF7LV-S-US,"Helmerich & Payne, Inc.",0,1
+CVLT US,RH1ZMN-S-US,"Commvault Systems, In",0,1
+BK US,HSDSLM-S-US,Bank of New York Mellon Corporation,1,1
+S US,BB0C2F-S-US,Sprint Corp.,0,1
+SEIC US,K7T5TF-S-US,SEI Investments Company,0,1
+NI US,N00KJ9-S-US,NiSource Inc,0,1
+LM US,TF5788-S-US,"Legg Mason, Inc.",0,1
+RL US,B83ZLH-S-US,Ralph Lauren Corporation Class A,1,1
+MPWR US,CZJM88-S-US,Monolithic Power Syst,0,1
+GS US,HG5HFV-S-US,"Goldman Sachs Group, Inc.",1,1
+ENFC US,WR3BL5-S-US,"Entegris, Inc.",0,1
+PNC US,JT792F-S-US,"PNC Financial Services Group, Inc.",0,1
+NN NA,K1DMRQ-S-NL,NN Group N.V.,0,1
+NRG US,SPB6XT-S-US,"NRG Energy, Inc.",0,1
+YUM US,D407NC-S-US,"Yum! Brands, Inc.",1,1
+DIS US,K8YTSW-S-US,Walt Disney Company,1,1
+NOVN SW,P6G3ZG-S-CH,Novartis AG,1,1
+ABT US,Q1KJQ2-S-US,Abbott Laboratories,1,1
+BXB AU,Q3XHWK-S-AU,Brambles Limited,0,1
+AZO US,V3L7PF-S-US,"AutoZone, Inc.",1,1
+RHI US,G7VSB9-S-US,Robert Half International Inc.,0,1
+7202 JP,Q1KNZ6-S-JP,Isuzu Motors Limited,0,1
+LOGN SW,JGZM69-S-CH,Logitech International,1,1
+ICLR US,CZHBV2-S-US,ICON Plc,0,0
+SLHN SW,DKHSY5-S-CH,Swiss Life Holding AG,0,0
+LLY US,W38FV3-S-US,Eli Lilly and Company,1,1
+8630 JP,HSHBL4-S-JP,"Sompo Holdings,Inc.",0,1
+ON US,D69DC4-S-US,On Semiconductor Corp,0,1
+AMG NA,DD2DS4-S-NL,AMG Advanced Metallurgical Group N.V.,0,1
+TWLO US,HSBJV1-S-US,"Twilio, Inc. Class A",1,1
+PRU US,BRWF4W-S-US,"Prudential Financial, Inc.",response status_code : 504,1
+LITE US,XC104D-S-US,"Lumentum Holdings, In",0,1
+MB IM,BQQNZB-S-IT,Mediobanca S.p.A.,0,1
+SBAC US,G7RJ37-S-US,SBA Communications Corp. Class A,0,1
+BIIB US,S38X5X-S-US,Biogen Inc.,response status_code : 504,1
+TMUS US,WYK7VS-S-US,"T-mobile Us, Inc.",1,1
+EPAM US,WG9TZK-S-US,"Epam Systems, Inc.",0,1
+MQG AU,PC3V3D-S-AU,Macquarie Group Limit,1,1
+PAG LN,K10XT3-S-GB,Paragon Banking Group,0,1
+SYMC US,L9QXLC-S-US,Symantec Corporation,1,1
+MGM US,MQ18S4-S-US,MGM Resorts International,1,1
+BR TB,X6CP79-S-TH,Bangkok Ranch Public Co Ltd,0,0
+TRIP US,RX8FJX-S-US,"TripAdvisor, Inc.",response status_code : 504,1
+DRI US,L6CF99-S-US,"Darden Restaurants, Inc.",1,1
+EMN US,WNDVBT-S-US,Eastman Chemical Company,0,1
+HSIC US,WZMJB0-S-US,"Henry Schein, Inc.",0,1
+FLS US,PZF9CX-S-US,Flowserve Corporation,0,1
+MAA US,TLPSG8-S-US,"Mid-America Apartment Communities, Inc.",0,1
+MAR US,CC0PJK-S-US,"Marriott International, Inc. Class A",1,1
+ZEN US,QP520V-S-US,"Zendesk, Inc.",0,1
+AMCX US,WMPR62-S-US,Amc Networks Inc. Cla,0,1
+TGT US,WX72B4-S-US,Target Corporation,response status_code : 504,1
+PSA US,MQ12CY-S-US,Public Storage,0,1
+HBAN US,JYS4QM-S-US,Huntington Bancshares Incorporated,0,1
+PPG US,KM6CDW-S-US,"PPG Industries, Inc.",0,1
+CHTR US,MTDQ28-S-US,"Charter Communications, Inc. Class A",response status_code : 504,1
+GRMN US,NCCKWN-S-US,Garmin Ltd.,1,1
+7267 JP,XBVTLW-S-JP,"Honda Motor Co., Ltd.",1,1
+HSY US,KJY9T4-S-US,Hershey Company,0,1
+SWK US,Q1LMT3-S-US,"Stanley Black & Decker, Inc.",0,1
+TGNA US,W5NFZK-S-US,"Tegna, Inc.",0,1
+LNC US,HVQ5RM-S-US,Lincoln National Corporation,0,1
+FCX US,MMRHSQ-S-US,"Freeport-McMoRan, Inc.",response status_code : 504,1
+JNJ US,T7HSNM-S-US,Johnson & Johnson,1,1
+HRL US,M88FPK-S-US,Hormel Foods Corporation,0,1
+FLR US,MJBXDM-S-US,Fluor Corporation,1,1
+6861 JP,XLTFZB-S-JP,Keyence Corporation,0,1
+FRT US,DLNFXM-S-US,Federal Realty Investment Trust,0,1
+HCA US,JXZR9V-S-US,HCA Healthcare Inc,0,1
+STZ US,QZ2Q0V-S-US,"Constellation Brands, Inc. Class A",1,1
+KEY US,SX82QG-S-US,KeyCorp,0,1
+MDT US,TTHQS7-S-US,Medtronic plc,1,1
+ADP US,RXHPCQ-S-US,"Automatic Data Processing, Inc.",1,1
+UNP US,B2DTQ7-S-US,Union Pacific Corporation,1,1
+GGR SP,G5MQMH-S-SG,Golden Agri-resources,0,0
+8058 JP,PSMHG5-S-JP,Mitsubishi Corporation,0,1
+NTR CN,DRJY75-S-CA,Nutrien Ltd.,1,1
+SMTC US,BXJRFB-S-US,Semtech Corporation,1,1
+SRE US,SDCJ96-S-US,Sempra Energy,0,1
+WY US,NPKW4H-S-US,Weyerhaeuser Company,0,1
+DE US,G5FWH0-S-US,Deere & Company,1,1
+LNT US,X9RH3N-S-US,Alliant Energy Corp,0,1
+VSAT US,CJPJXL-S-US,"Viasat, Inc.",0,1
+DTE US,GJSPG5-S-US,DTE Energy Company,0,1
+PNR US,C7R82C-S-US,Pentair plc,0,1
+FOX IT,VR2Z0Y-S-IL,Fox-Wizel Ltd.,0,0
+MAT US,RS1WKD-S-US,"Mattel, Inc.",1,1
+PSN LN,TTNSDZ-S-GB,Persimmon Plc,0,0
+ALGN US,H68H4X-S-US,"Align Technology, Inc.",0,1
+LEN US,GRSGXM-S-US,Lennar Corporation Class A,1,1
+NA,B7YWWQ-S-US,"Liveramp Holdings, In",0,1
+CI US,XHJHJN-S-US,Cigna Corporation,response status_code : 504,1
+WHR US,L9RFKV-S-US,Whirlpool Corporation,1,1
+EXC US,HG5T14-S-US,Exelon Corporation,0,1
+OC US,KHZRFD-S-US,Owens Corning,0,1
+NLSN US,BLJDN6-S-US,Nielsen Holdings Plc,0,1
+ECL US,L46MXM-S-US,Ecolab Inc.,0,1
+ZTS US,CQJ281-S-US,"Zoetis, Inc. Class A",0,1
+WMB US,GC3T03-S-US,"Williams Companies, Inc.",0,1
+HES US,PQCHZH-S-US,Hess Corporation,0,1
+LOGM US,CSQZST-S-US,"Logmein, Inc.",0,1
+AXP US,DBQ20D-S-US,American Express Company,1,1
+ROP US,FV7BRY-S-US,"Roper Technologies, Inc.",0,1
+DWDP US,R1CXVP-S-US,DowDuPont Inc.,response status_code : 504,1
+LW US,K0ZLYJ-S-US,"Lamb Weston Holdings, Inc.",0,1
+CLGX US,Q9ND4H-S-US,"Corelogic, Inc.",1,1
+LAZ US,PM4PLT-S-US,Lazard Ltd Class A,0,1
+CME US,D9K19L-S-US,CME Group Inc. Class A,1,1
+VPK NA,HBSLCD-S-NL,Royal Vopak NV,0,1
+ES US,MTFQX3-S-US,Eversource Energy,0,1
+VIAB US,X7JW88-S-US,Viacom Inc. Class B,1,1
+BLL US,PHJ859-S-US,Ball Corporation,0,1
+288 HK,SV8XPP-S-HK,WH Group Ltd. (HK),0,1
+CCL US,QBS6K5-S-US,Carnival Corporation,1,1
+ALLE US,LC1NY7-S-US,Allegion PLC,0,1
+CINF US,WJVTHK-S-US,Cincinnati Financial Corporation,0,1
+CTAS US,TKPJVY-S-US,Cintas Corporation,0,1
+2269 JP,TBXX5B-S-JP,"Meiji Holdings Co., L",0,1
+IFF US,W7TP6N-S-US,International Flavors & Fragrances Inc.,0,1
+ACIW US,BGT3MW-S-US,"Aci Worldwide, Inc.",0,1
+ANTM IJ,XG9H0Z-S-ID,PT Aneka Tambang Tbk,0,1
+LGEN LN,MKC740-S-GB,Legal & General Group,0,0
+WFC US,G4G3T4-S-US,Wells Fargo & Company,response status_code : 504,1
+IPG US,DXTWJN-S-US,"Interpublic Group of Companies, Inc.",0,1
+CNK US,GZNG3H-S-US,"Cinemark Holdings, In",0,1
+EPAY US,S7Q60R-S-US,Bottomline Technologi,0,1
+FGR FP,BL5XJ7-S-FR,Eiffage SA,0,1
+TSCO LN,KX8CBL-S-GB,Tesco PLC,1,1
+AFX GR,B4Q6W7-S-DE,Carl Zeiss Meditec AG,0,1
+ALC US,MF3LBR-S-CH,"Alcon, Inc.",0,0
+DG FP,C4CBZX-S-FR,VINCI SA,0,1
+KLAC US,FJ1F7G-S-US,KLA-Tencor Corporation,0,1
+PM SW,KQR4SX-S-CH,Phoenix Mecano AG,0,1
+GWRE US,NVXZ1H-S-US,"Guidewire Software, I",0,1
+JW-A US,JJ82GB-S-US,"John Wiley & Sons, In",0,1
+RHT US,GRMT07-S-US,"Red Hat, Inc.",1,1
+VRSK US,H46J90-S-US,Verisk Analytics Inc,0,1
+IAG LN,KW8NSS-S-GB,International Consoli,0,0
+FFIV US,GQM0CD-S-US,"F5 Networks, Inc.",0,1
+LFUS US,SGMYM9-S-US,"Littelfuse, Inc.",0,1
+IBM US,MCPQD9-S-US,International Business Machines Corporation,1,1
+AGN US,JK7YB9-S-US,Allergan plc,response status_code : 504,1
+CNO US,V3LWY1-S-US,"CNO Financial Group, Inc.",response status_code : 504,1
+CCH LN,FDJNVF-S-GB,Coca-cola Hbc Ag,response status_code : 504,1
+INCY US,SGJQG8-S-US,Incyte Corporation,response status_code : 504,1
+HLNE US,G147VV-S-US,Hamilton Lane Incorporated Class A,response status_code : 504,1
+SYNH US,C3MWSG-S-US,"Syneos Health, Inc. C",0,0
+AMG US,PP7H5M-S-US,"Affiliated Managers Group, Inc.",response status_code : 504,1
+SPGI US,NXC32S-S-US,"S&P Global, Inc.",1,1
+LONN SW,LGFX0C-S-CH,Lonza Group AG,response status_code : 504,1
+ENG SM,PTRVXC-S-ES,Enagas SA,response status_code : 504,1
+TON SJ,K8Z9QB-S-ZA,Tongaat Hulett Limited,response status_code : 504,1
+NKTR US,X7L8YL-S-US,Nektar Therapeutics,1,1
+TXN US,SJWX0Y-S-US,Texas Instruments Incorporated,1,1
+KMX US,J2NC4K-S-US,"CarMax, Inc.",response status_code : 504,1
+RNG US,JPYGCC-S-US,"Ringcentral, Inc. Cla",response status_code : 504,1
+HAL US,M1LGZB-S-US,Halliburton Company,1,1
+MRVL US,F3NL57-S-US,Marvell Technology Gr,response status_code : 504,1
+JCOM US,PJNPRK-S-US,"J2 Global, Inc.",response status_code : 504,1
+4902 JP,SQG9VR-S-JP,"Konica Minolta, Inc.",response status_code : 504,"error : HTTPSConnectionPool(host='api.ci.decooda.com', port=443): Max retries exceeded with url: /api/analytics/v2.0/summary?access_token=ab4ca7d8-631f-4cf0-907e-cf2a362445ad (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f82c40f1ba8>: Failed to establish a new connection: [Errno -2] Name or service not known',))"
+ETR US,WSV8FS-S-US,Entergy Corporation,response status_code : 504,1
+HCP IN,W4LK7P-S-IN,Hindustan Copper Ltd,response status_code : 504,1
+HRS US,PRGHTD-S-US,Harris Corporation,response status_code : 504,1
+EL US,BFMGRH-S-US,Estee Lauder Companies Inc. Class A,1,1
+1113 HK,DNQVCP-S-HK,CK Asset Holdings Lim,response status_code : 504,1
+CABO US,HQD3LB-S-US,"Cable One, Inc.",response status_code : 504,1
+VIAV US,LBWC5M-S-US,Viavi Solutions Inc,response status_code : 504,1
+COP US,L6CX6R-S-US,ConocoPhillips,response status_code : 504,1
+BKI US,P51QVC-S-US,"Black Knight, Inc.",response status_code : 504,1
+JCI US,G4F739-S-US,Johnson Controls International plc,0,1
+TW/ LN,T430YC-S-GB,Taylor Wimpey plc,response status_code : 504,1
+KIM US,Q50887-S-US,Kimco Realty Corporation,response status_code : 504,1
+DBS SP,NSYZM4-S-SG,DBS Group Holdings Lt,1,1
+WMT US,DWPYXW-S-US,Walmart Inc.,1,1
+MHK US,NK4RMT-S-US,"Mohawk Industries, Inc.",response status_code : 504,1
+WAB US,Q9PG5H-S-US,Westinghouse Air Brake Technologies Corporation,response status_code : 504,1
+GWW US,SHMTH8-S-US,"W.W. Grainger, Inc.",response status_code : 504,1
+DSCT IT,K16KKD-S-IL,Israel Discount Bank,0,0
+MDP US,GB58PD-S-US,Meredith Corporation,1,1
+DLTR US,N81W08-S-US,"Dollar Tree, Inc.",1,1
+LYB US,M1W3FF-S-US,LyondellBasell Industries NV,response status_code : 504,1
+RACE IM,NZV6TT-S-IT,Ferrari NV,1,1
+ATO US,QHBDVP-S-US,Atmos Energy Corporation,response status_code : 504,1
+8766 JP,TJFV1M-S-JP,Tokio Marine Holdings,response status_code : 504,1
+TRP CN,F3N7HX-S-CA,TC Energy Corporation,1,1
+MXIM US,V0BDBS-S-US,"Maxim Integrated Products, Inc.",1,1
+IRDM US,KHSZK3-S-US,Iridium Communication,1,1
+JKHY US,DSGZ71-S-US,"Jack Henry & Associates, Inc.",1,1
+SAF FP,DVL4J6-S-FR,Safran S.A.,response status_code : 504,1
+WWE US,QG1890-S-US,World Wrestling Entertainment,response status_code : 504,1
+NYCB US,DQ5K00-S-US,New York Times Compan,response status_code : 504,1
+DFS US,KNF6LD-S-US,Discover Financial Services,response status_code : 504,1
+WRLD US,PD4Y6D-S-US,World Wrestling Enter,response status_code : 504,1
+DIM FP,JS2BHP-S-FR,Sartorius Stedim Biot,0,0
+ADM US,DKH0FF-S-US,Archer-Daniels-Midland Company,1,1
+XLNX US,KHRJNM-S-US,"Xilinx, Inc.",1,1
+CCI US,LY1BXZ-S-US,Crown Castle International Corp,response status_code : 504,1
+SWMA SS,PN77L9-S-SE,Swedish Match AB,response status_code : 504,1
+MT NA,XKNW3Y-S-NL,ArcelorMittal,1,1
+APTV US,WC0FKB-S-US,Aptiv PLC,response status_code : 504,1
+RF US,JJ8RRZ-S-US,Regions Financial Corporation,response status_code : 504,1
+ARRS US,RZR3SW-S-US,Arris International P,response status_code : 504,1
+PTC US,QQ00XL-S-US,Ptc Inc.,response status_code : 504,1
+ROG US,HLWYS9-S-US,Rogers Corporation,response status_code : 504,1
+7741 JP,PGDHWP-S-JP,HOYA CORPORATION,response status_code : 504,1
+D US,LHF4PR-S-US,Dominion Energy Inc,response status_code : 504,1
+T US,PQJ6YX-S-US,AT&T Inc.,1,1
+SLAB US,F4SDKX-S-US,Silicon Laboratories,response status_code : 504,1
+FRC US,L6TPMT-S-US,First Republic Bank,response status_code : 504,1
+ETFC US,KQKRHV-S-US,E*TRADE Financial Corporation,response status_code : 504,1
+HUM US,NNK8WV-S-US,Humana Inc.,response status_code : 504,1
+2579 JP,MBPDNX-S-JP,Coca-Cola Bottlers Ja,1,1
+CVS US,JDWM79-S-US,CVS Health Corporation,1,1
+ARW US,HKMMSD-S-US,"Arrow Electronics, In",response status_code : 504,1
+ENR US,MXTG4X-S-US,Energizer Holdings In,response status_code : 504,1
+NSC US,TY1NFD-S-US,Norfolk Southern Corporation,response status_code : 504,1
+NUAN US,QMRMKG-S-US,Nuance Communications,response status_code : 504,1
+ADS US,D656C6-S-US,Alliance Data Systems Corporation,response status_code : 504,1
+SYK US,NYHJP1-S-US,Stryker Corporation,response status_code : 504,1
+AKAM US,HXZ69B-S-US,"Akamai Technologies, Inc.",1,1
+M US,KHRMVQ-S-US,Macy's Inc,1,1
+III LN,R1CDW6-S-GB,3i Group plc,response status_code : 504,1
+IP US,GX4W4P-S-US,International Paper Company,response status_code : 504,1
+MMC US,RWB1HB-S-US,"Marsh & McLennan Companies, Inc.",response status_code : 504,1
+STI US,X6BVNJ-S-US,"SunTrust Banks, Inc.",1,1
+BDX US,QLL3Y6-S-US,"Becton, Dickinson and Company",response status_code : 504,1
+TRV US,G8VDR1-S-US,"Travelers Companies, Inc.",response status_code : 504,1
+ORLY US,SDDLB6-S-US,"O'Reilly Automotive, Inc.",response status_code : 504,1
+BHF US,W733DQ-S-US,"Brighthouse Financial, Inc.",response status_code : 504,1
+MDLZ US,D8DHJ7-S-US,"Mondelez International, Inc. Class A",response status_code : 504,1
+SO IM,PVWSJ4-S-IT,Sogefi SPA,1,1
+WDAY US,MS9VJJ-S-US,"Workday, Inc. Class A",response status_code : 504,1
+HBI US,V86L1Y-S-US,Hanesbrands Inc.,response status_code : 504,1
+NCM AU,K150LY-S-AU,Newcrest Mining Limit,response status_code : 504,1
+CBOE US,X5H2LD-S-US,Cboe Global Markets Inc,1,1
+ABC US,B3FZ0D-S-US,AmerisourceBergen Corporation,response status_code : 504,1
+WELL US,FXHMTX-S-US,"Welltower, Inc.",response status_code : 504,1
+TEL NO,SM683X-S-NO,Telenor ASA,1,1
+NWSA US,GLZ11J-S-US,News Corporation Class A,1,1
+WCG US,LP4SHG-S-US,"WellCare Health Plans, Inc.",response status_code : 504,1
+RIO AU,WHWHP3-S-AU,Rio Tinto Limited,response status_code : 504,1
+CPRT US,P455NW-S-US,"Copart, Inc.",response status_code : 504,1
+TMK US,MXWGG8-S-US,Torchmark Corporation,response status_code : 504,1
+SNV US,PX0MZV-S-US,Synovus Financial Cor,response status_code : 504,1
+FB US,BHM9TN-S-US,"Facebook, Inc. Class A",1,1
+SLG US,X9VRBQ-S-US,SL Green Realty Corp.,response status_code : 504,1
+BRK/B US,N138TY-S-US,Berkshire Hathaway Inc. Class B,1,1
+ARNC US,PP17YF-S-US,"Arconic, Inc.",response status_code : 504,1
+COMM US,DDZ68Q-S-US,Commscope Holding Co.,1,1
+NXST US,B4KM2X-S-US,"Nexstar Media Group,",response status_code : 504,1
+ORA FP,X31PTN-S-FR,Orange SA,1,1
+CDK US,DW7HVT-S-US,Cdk Global Inc,response status_code : 504,1
+TRCO US,LNPH82-S-US,Tribune Media Co. Cla,response status_code : 504,1
+MNST US,NT3TVP-S-US,Monster Beverage Corporation,response status_code : 504,1
+7974 JP,G3B54B-S-JP,"Nintendo Co., Ltd.",1,1
+PFE US,JDQZCY-S-US,Pfizer Inc.,1,1
+APD US,P7M7WC-S-US,"Air Products and Chemicals, Inc.",response status_code : 504,1
+MKSI US,TGB6X1-S-US,"Mks Instruments, Inc.",response status_code : 504,1
+NOC US,D2W0G9-S-US,Northrop Grumman Corporation,response status_code : 504,1
+EBAY US,S5G28Y-S-US,eBay Inc.,1,1
+ABBV US,V3049L-S-US,"AbbVie, Inc.",1,1
+ELLI US,DGFSW4-S-US,"Ellie Mae, Inc.",response status_code : 504,1
+KL CN,XHFBHP-S-CA,Kirkland Lake Gold Ltd.,1,1
+CHD US,QVJHVF-S-US,"Church & Dwight Co., Inc.",response status_code : 504,1
+JBHT US,QNZYNF-S-US,"J.B. Hunt Transport Services, Inc.",response status_code : 504,1
+HO FP,HQ927Y-S-FR,Thales SA,response status_code : 504,1
+SAIC US,TMW8K0-S-US,Science Applications,1,1
+SO US,H44KF1-S-US,Southern Company,response status_code : 504,1
+SIVB US,JGZ7GY-S-US,SVB Financial Group,response status_code : 504,1
+L US,VYPZ0B-S-US,Loews Corporation,response status_code : 504,1
+ZS US,S1GFR5-S-US,"Zscaler, Inc.",response status_code : 504,1
+GLEN LN,C4QD5D-S-GB,Glencore plc,1,1
+CAP FP,DZ425C-S-FR,Capgemini SE,1,1
+WU US,JBNF8C-S-US,Western Union Company,1,1
+MA US,HLTYZF-S-US,Mastercard Incorporated Class A,response status_code : 504,1
+MO US,BRWRT6-S-US,Altria Group Inc,response status_code : 504,1
+6988 JP,RJ0QBK-S-JP,Nitto Denko Corp.,response status_code : 504,1
+MAN US,GKZ0R8-S-US,ManpowerGroup,response status_code : 504,1
+WDC US,WK19ZQ-S-US,Western Digital Corporation,1,1
+SCWX US,SH8W4J-S-US,Secureworks Corp. Cla,1,1
+VMC US,KM5HS2-S-US,Vulcan Materials Company,0,1
+CNR CN,NL8Q9M-S-CA,Canadian National Rai,response status_code : 504,1
+TIF US,M2QXKL-S-US,Tiffany & Co.,response status_code : 504,1
+ZNGA US,SRCT6H-S-US,Zynga Inc. Class A,response status_code : 504,1
+ISRG US,W7T9H9-S-US,"Intuitive Surgical, Inc.",0,1
+FLIR US,QTDDXH-S-US,"FLIR Systems, Inc.",response status_code : 504,1
+ALB US,C8SHKM-S-US,Albemarle Corporation,response status_code : 504,1
+LUV US,MXVHMC-S-US,Southwest Airlines Co.,1,1
+PRGO US,JVBJCK-S-US,Perrigo Co. Plc,response status_code : 504,1
+FANG US,DR9WKB-S-US,"Diamondback Energy, Inc.",response status_code : 504,1
+FII US,D54FSD-S-US,"Federated Investors, Inc. Class B",response status_code : 504,1
+SHW US,DMY2HT-S-US,Sherwin-Williams Company,response status_code : 504,1
+CSL AU,HSF8J2-S-AU,CSL Limited,0,1
+GLW US,QWNLSC-S-US,Corning Inc,response status_code : 504,1
+CSX US,NFMH78-S-US,CSX Corporation,response status_code : 504,1
+LDO IM,PRMLJ5-S-IT,Leonardo SpA,response status_code : 504,1
+MCD US,F1F0GY-S-US,McDonald's Corporation,1,1
+DGX US,QPZXQH-S-US,Quest Diagnostics Incorporated,0,1
+ULTA US,LTMSR1-S-US,Ulta Beauty Inc,1,1
+LRCX US,N9757B-S-US,Lam Research Corporation,1,1
+USB US,QQ57WH-S-US,U.S. Bancorp,response status_code : 504,1
+COUP US,GLVKYS-S-US,"Coupa Software, Inc.",response status_code : 504,1
+EV US,VBDMVT-S-US,Eaton Vance Corp.,0,1
+ANSS US,C0SZHB-S-US,"ANSYS, Inc.",response status_code : 504,1
+APC US,PN3GCR-S-US,Anadarko Petroleum Corporation,response status_code : 504,1
+CBS US,QCW7G3-S-US,CBS Corporation Class B,1,1
+8591 JP,M890T3-S-JP,ORIX Corporation,0,1
+VSH US,N17VK7-S-US,Vishay Intertechnolog,response status_code : 504,1
+NEM US,P5BL31-S-US,Newmont Mining Corporation,1,1
+MOS US,GW5WZK-S-US,Mosaic Company,0,1
+NOVOB DC,JT6S2Y-S-DK,Novo Nordisk A/S Clas,response status_code : 504,1
+PAYC US,X7YXN0-S-US,"Paycom Software, Inc.",response status_code : 504,1
+UOB SP,GYG1SD-S-SG,United Overseas Bank,response status_code : 504,1
+HLT US,PTYK86-S-US,Hilton Worldwide Holdings Inc,0,1
+MKC US,DVR40W-S-US,"McCormick & Company, Incorporated",1,1
+NTCT US,PQCGXG-S-US,"Netscout Systems, Inc",0,1
+AES US,Q0KPX4-S-US,AES Corporation,0,1
+HFC US,RCGDTY-S-US,HollyFrontier Corporation,0,1
+BMY US,H547YV-S-US,Bristol-Myers Squibb Company,1,1
+UHS US,JPY35J-S-US,"Universal Health Services, Inc. Class B",response status_code : 504,1
+ROL US,K8ZFZG-S-US,"Rollins, Inc.",0,1
+ROK US,RCF8NW-S-US,"Rockwell Automation, Inc.",1,1
+HPE US,F9QBSZ-S-US,Hewlett Packard Enterprise Co.,response status_code : 504,1
+AAP US,KXFJ5F-S-US,"Advance Auto Parts, Inc.",response status_code : 504,1
+HRB US,Q2PPS2-S-US,"H&R Block, Inc.",response status_code : 504,1
+TDG US,QBWP5F-S-US,TransDigm Group Incorporated,0,1
+BKNG US,CM333K-S-US,Booking Holdings Inc.,1,1
+CHRW US,NK4J5L-S-US,"C.H. Robinson Worldwide, Inc.",0,0
+PGR US,HTJWJK-S-US,Progressive Corporation,0,0
+GDDY US,XB6X7T-S-US,"Godaddy, Inc. Class A",0,0
+EXR US,PPDFM8-S-US,Extra Space Storage Inc.,0,0
+CBRE US,K3B0CT-S-US,"CBRE Group, Inc. Class A",1,1
+ENEL IM,TVSR2S-S-IT,Enel SpA,0,1
+LPLA US,JJJB62-S-US,LPL Financial Holding,response status_code : 504,1
+BA US,P8WJT7-S-US,Boeing Company,1,1
+EVT GR,GTX447-S-DE,Evotec SE,response status_code : 504,1
+NOVT US,BNL1XT-S-US,Novanta Inc,0,0
+NTAP US,Q4ZSBS-S-US,"NetApp, Inc.",0,1
+HCP US,L9XWZZ-S-US,"HCP, Inc.",response status_code : 504,1
+MTCH US,J2YRLX-S-US,"Match Group, Inc.",0,0
+ALL US,Q8DVNB-S-US,Allstate Corporation,0,0
+MAS US,GPBWRP-S-US,Masco Corporation,response status_code : 504,1
+PH US,KPL0X0-S-US,Parker-Hannifin Corporation,response status_code : 504,1
+STO AU,GM6XYS-S-AU,Santos,0,1
+VSM US,H0J0F2-S-US,"Versum Materials, Inc",response status_code : 504,1
+ESS US,LG8VCM-S-US,"Essex Property Trust, Inc.",0,1
+GVC LN,WC835J-S-GB,GVC Holdings PLC,0,1
+WRK US,JWHK2C-S-US,WestRock Company,0,1
+NUE US,V3LF0L-S-US,Nucor Corporation,1,1
+PYPL US,NGRNZY-S-US,PayPal Holdings Inc,response status_code : 504,1
+VNA GR,B6LPK8-S-DE,Vonovia SE,response status_code : 504,1
+DHR US,NK1C4M-S-US,Danaher Corporation,response status_code : 504,1
+CTXS US,JBFJ2W-S-US,"Citrix Systems, Inc.",response status_code : 504,1
+GPN US,VK6XV3-S-US,Global Payments Inc.,0,1
+VLO US,DWW3RQ-S-US,Valero Energy Corporation,1,1
+CPSI US,MVGS05-S-US,Computershare Limited,0,1
+ARE US,L9WQRW-S-US,"Alexandria Real Estate Equities, Inc.",response status_code : 504,1
+XEC US,J9BBXT-S-US,Cimarex Energy Co.,response status_code : 504,1
+UBI FP,GX5B03-S-FR,Ubisoft Entertainment,0,1
+TWOU US,LK2SPQ-S-US,"2u, Inc.",response status_code : 504,1
+3382 JP,V4THNB-S-JP,Seven & I Holdings Co,response status_code : 504,1
+VRTX US,RCKMZZ-S-US,Vertex Pharmaceuticals Incorporated,response status_code : 504,1
+VRSN US,HMWNB3-S-US,"VeriSign, Inc.",0,1
+1997 HK,W1BKX5-S-HK,Wharf Real Estate Inv,response status_code : 504,1
+NKE US,WK0NR3-S-US,"NIKE, Inc. Class B",1,1
+MS US,RWHXPV-S-US,Morgan Stanley,1,1
+AMAT US,QR4XC8-S-US,"Applied Materials, Inc.",response status_code : 504,1
+FAST US,D1QS87-S-US,Fastenal Company,response status_code : 504,1
+MNDI LN,JDTQMJ-S-GB,Mondi plc,response status_code : 504,1
+SOON SW,B9366V-S-CH,Sonova Holding AG,response status_code : 504,1
+IIVI US,NB68NL-S-US,Ii-vi Incorporated,0,1
+NXPI US,RXS7PR-S-US,Nxp Semiconductors Nv,1,1
+AVGO US,MDX5ZL-S-US,Broadcom Inc.,response status_code : 504,1
+SHEN US,H2YXJN-S-US,Shenandoah Telecommun,0,1
+TEL US,HVRY7D-S-US,TE Connectivity Ltd.,response status_code : 504,1
+VFC US,KCCH5Y-S-US,V.F. Corporation,1,1
+BXP US,HWYFQJ-S-US,"Boston Properties, Inc.",response status_code : 504,1
+COO US,P45KD7-S-US,"Cooper Companies, Inc.",response status_code : 504,1
+ACS SM,HY35X2-S-ES,Actividades de Constr,response status_code : 504,1
+CACI US,F97122-S-US,Caci International In,0,1
+ETN US,KZJCW9-S-US,Eaton Corp. Plc,response status_code : 504,1
+ALK US,FLFZFF-S-US,"Alaska Air Group, Inc.",response status_code : 504,1
+EXO IM,TCWS07-S-IT,EXOR N.V.,response status_code : 504,1
+AVB US,GX5W1M-S-US,"AvalonBay Communities, Inc.",1,1
+DSY FP,J1HN11-S-FR,Dassault Systemes SA,response status_code : 504,1
+HPQ US,V601BM-S-US,HP Inc.,1,1
+NEE US,VLCR4Q-S-US,"NextEra Energy, Inc.",response status_code : 504,1
+UPM FH,JCRJFH-S-FI,UPM-Kymmene Oyj,0,1
+RE US,W6N2D9-S-US,"Everest Re Group, Ltd.",0,1
+KSS US,K7VKFQ-S-US,Kohl's Corporation,1,1
+EQIX US,JPYYTB-S-US,"Equinix, Inc.",response status_code : 504,1
+MRO US,NCHX4Q-S-US,Marathon Oil Corporation,response status_code : 504,1
+STMN SW,VNS64L-S-CH,Straumann Holding AG,0,1
+HUBS US,BZ9C22-S-US,"Hubspot, Inc.",1,1
+6758 JP,S5FBX8-S-JP,Sony Corporation,1,1
+CCOI US,C37X9L-S-US,Cogent Communications,response status_code : 504,1
+DRE US,JWHCR6-S-US,Duke Realty Corporation,0,1
+NESN SW,H7CWS6-S-CH,Nestle S.A.,1,1
+WEX US,P7N3J5-S-US,Wex Inc.,0,1
+BAC US,Q3TRMZ-S-US,Bank of America Corp,1,1
+SIRI US,SPBLN5-S-US,"Sirius Xm Holdings, I",1,1
+WEC US,C8QZP6-S-US,WEC Energy Group Inc,response status_code : 504,1
+NRZ US,BGQ998-S-US,"New Relic, Inc.",0,1
+XOM US,HP44R7-S-US,Exxon Mobil Corporation,response status_code : 504,1
+TFX US,T6776H-S-US,Teleflex Incorporated,response status_code : 504,1
+IPGP US,FJ33G1-S-US,IPG Photonics Corporation,response status_code : 504,1
+RJF US,QVJYPV-S-US,"Raymond James Financial, Inc.",1,1
+TMHC US,C2H8CK-S-US,Taylor Morrison Home,response status_code : 504,1
+TPR US,MYWCD8-S-US,"Tapestry, Inc.",response status_code : 504,1
+LTHM US,NKYH18-S-US,Livent Corporation,0,1
+IBKC US,Q3TXZ4-S-US,IBERIABANK Corporation,response status_code : 504,1
+IT US,SPBJJ3-S-US,"Gartner, Inc.",1,1
+BLK US,PB11JK-S-US,"BlackRock, Inc.",1,1
+CTL US,DKNL1N-S-US,"CenturyLink, Inc.",1,1
+TSN US,H0KFGR-S-US,"Tyson Foods, Inc. Class A",1,1
