@@ -415,3 +415,63 @@ IT US,SPBJJ3-S-US,"Gartner, Inc.",1,1
 BLK US,PB11JK-S-US,"BlackRock, Inc.",1,1
 CTL US,DKNL1N-S-US,"CenturyLink, Inc.",1,1
 TSN US,H0KFGR-S-US,"Tyson Foods, Inc. Class A",1,1
+XRAY US,SC30Z4-S-US,"DENTSPLY SIRONA, Inc.",0,1
+DOV US,VXR79F-S-US,Dover Corporation,response status_code : 504,1
+BWA US,D4ZW23-S-US,BorgWarner Inc.,response status_code : 504,1
+TXT US,DMY7TZ-S-US,Textron Inc.,response status_code : 504,1
+UNM US,WDC30F-S-US,Unum Group,0,1
+WYNN US,H6CGVQ-S-US,"Wynn Resorts, Limited",response status_code : 504,1
+DHI US,VVFQYB-S-US,"D.R. Horton, Inc.",0,1
+MRK GR,THFNLC-S-DE,Merck KGaA,0,0
+HOLX US,RDLR73-S-US,"Hologic, Inc.",response status_code : 504,1
+RO SW,MR5M59-S-CH,Roche Holding AG,1,1
+DXS AU,GPK0FF-S-AU,Dexus,0,1
+OMC US,L41WW5-S-US,Omnicom Group Inc,1,1
+EXPD US,X42FBF-S-US,"Expeditors International of Washington, Inc.",0,1
+PFG US,FJ0FBJ-S-US,"Principal Financial Group, Inc.",0,1
+IAC US,TD1RHX-S-US,Iac/interactivecorp.,0,1
+XEL US,JMNHJ8-S-US,Xcel Energy Inc.,response status_code : 504,1
+ABMD US,DF3N8D-S-US,"ABIOMED, Inc.",response status_code : 504,1
+IR US,M6459C-S-US,Ingersoll-Rand Plc,1,1
+PX US,NB64DG-S-US,Linde plc,response status_code : 504,1
+AON US,H9T6DW-S-US,Aon plc,response status_code : 504,1
+DOX US,SKY5L7-S-US,Amdocs Limited,0,1
+MET US,NV2X6X-S-US,"MetLife, Inc.",response status_code : 504,1
+MONC IM,FZXPLZ-S-IT,Moncler SpA,response status_code : 504,1
+EIX US,N03TRC-S-US,Edison International,response status_code : 504,1
+SBGI US,KPFMHW-S-US,Sinclair Broadcast Gr,0,1
+MCHP US,SY92RH-S-US,Microchip Technology Incorporated,0,1
+RSG US,KYDC2F-S-US,"Republic Services, Inc.",response status_code : 504,1
+CTSH US,RLF8JJ-S-US,Cognizant Technology Solutions Corporation Class A,0,1
+SWKS US,XKV56X-S-US,"Skyworks Solutions, Inc.",1,1
+TWTR US,GV451B-S-US,"Twitter, Inc.",1,1
+AME US,D7DHD4-S-US,"AMETEK, Inc.",response status_code : 504,1
+ADI US,P0X865-S-US,"Analog Devices, Inc.",response status_code : 504,1
+SWEDA SS,RQT3M0-S-SE,Swedbank AB Class A,response status_code : 504,1
+SYF US,DFHD4X-S-US,Synchrony Financial,0,1
+PEGA US,NT38T5-S-US,Pegasystems Inc.,1,1
+8001 JP,NPQ48H-S-JP,Itochu Corporation,response status_code : 504,1
+TDS US,LKQGQP-S-US,Telephone And Data Sy,response status_code : 504,1
+GPS US,T0NLZH-S-US,"Gap, Inc.",1,1
+TEAM US,DM5J37-S-US,Atlassian Corp. Plc C,1,1
+FL US,B82TCD-S-US,"Foot Locker, Inc.",1,1
+URI US,SRQ728-S-US,"United Rentals, Inc.",0,1
+TD CN,RFQ4VD-S-CA,Toronto-Dominion Bank,0,1
+PHM US,VFZRT3-S-US,"PulteGroup, Inc.",response status_code : 504,1
+ULTI US,P9WP6G-S-US,Ultimate Software Gro,response status_code : 504,1
+XYL US,Q5V0CD-S-US,Xylem Inc.,response status_code : 504,1
+CCL LN,GC8TKT-S-GB,Carnival Corporation,1,1
+PSX US,SP70YY-S-US,Phillips 66,1,1
+ICE US,H6GV8W-S-US,"Intercontinental Exchange, Inc.",response status_code : 504,1
+PEG US,DXV63Y-S-US,Public Service Enterprise Group Inc,0,1
+ANET US,JBVNSV-S-US,"Arista Networks, Inc.",response status_code : 504,1
+WBA US,QSFJYG-S-US,Walgreens Boots Alliance Inc,1,1
+IART US,D68983-S-US,Integrated Device Tec,0,1
+MSCI US,TP36J7-S-US,MSCI Inc. Class A,1,1
+UPS US,C6M0W9-S-US,"United Parcel Service, Inc. Class B",response status_code : 504,1
+DOCU US,TS020P-S-US,"Docusign, Inc.",1,1
+AMP SM,H1Q8VD-S-ES,"Amper, S.A.",0,1
+RP US,GHZF8G-S-US,"Realpage, Inc.",0,1
+SJM US,W0Z2R4-S-US,J.M. Smucker Company,response status_code : 504,1
+SCHW US,B6VPNM-S-US,Charles Schwab Corporation,1,1
+EW US,FWHW51-S-US,Edwards Lifesciences Corporation,response status_code : 504,1
