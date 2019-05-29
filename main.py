@@ -2,6 +2,10 @@ import requests
 import json
 import csv
 
+from src import logger
+
+log = logger.get_logger(__name__)
+
 
 def generate_report(url):
     with open("data/Q1&Q2.csv", "r") as fp:
@@ -15,9 +19,8 @@ def generate_report(url):
         # heading = [head[0], head[1], head[2], "summary_level", "contextual_level"]
         # writer.writerow(heading)
 
-        for info in company_info[418:]:
+        for info in company_info[567:]:
             info = [j.strip('"') for j in info.split('",')]
-            print(info)
             row = [info[0], info[1], info[2], 0, 0]
             data1 = {"company_info": {"ticker": info[0], "perm_id": info[1], "name": info[2]},
                      "filters": {"last_days": 180}, "dataLevel": "corpus_level"}
@@ -29,9 +32,10 @@ def generate_report(url):
             for index, level in enumerate(summary_level):
                 payload = json.dumps(level)
                 try:
-                    print("request :\n\t", payload)
+                    log.info("request : {}".format(payload))
                     response = requests.post(url, data=payload)
-                    print("response :\n\t", response.text)
+                    log.info("response : {}".format(response.text))
+                    log.info("status code : {}".format(response.status_code))
                     if response.status_code == 200:
                         if "summary" in response.json()["data"].keys() and response.json()["data"]["summary"] != []:
                             row[3 + index] = 1
@@ -40,6 +44,7 @@ def generate_report(url):
                     else:
                         row[3 + index] = "response status_code : {}".format(response.status_code)
                 except Exception as e:
+                    log.error("error : {}".format(e))
                     row[3 + index] = "error : {}".format(e)
             writer.writerow(row)
 

@@ -475,3 +475,92 @@ RP US,GHZF8G-S-US,"Realpage, Inc.",0,1
 SJM US,W0Z2R4-S-US,J.M. Smucker Company,response status_code : 504,1
 SCHW US,B6VPNM-S-US,Charles Schwab Corporation,1,1
 EW US,FWHW51-S-US,Edwards Lifesciences Corporation,response status_code : 504,1
+CMS US,TNYNQV-S-US,CMS Energy Corporation,1,1
+HOG US,TQ3YYX-S-US,"Harley-Davidson, Inc.",1,1
+IEX US,HTKWFH-S-US,IDEX Corporation,1,1
+LPT US,RWHVKS-S-US,Liberty Property Trus,0,1
+AMZN US,RMCVZ9-S-US,"Amazon.com, Inc.",1,1
+EXPE US,WSWSB6-S-US,"Expedia Group, Inc.",1,1
+QTWO US,GLFDP8-S-US,"Q2 Holdings, Inc.",1,1
+LB US,B3L74D-S-US,"L Brands, Inc.",1,1
+REG US,P0S025-S-US,Regency Centers Corporation,0,1
+PNW US,RJ034Z-S-US,Pinnacle West Capital Corporation,1,1
+DVMT US,H1F53H-S-US,Dell Technologies Inc,1,1
+ITW US,KC74XW-S-US,Illinois Tool Works Inc.,1,1
+1COV GR,SFT72P-S-DE,Covestro AG,0,1
+CMA US,S8TKL0-S-US,Comerica Incorporated,1,1
+CSOD US,WVBS8K-S-US,"Cornerstone Ondemand,",response status_code : 502,response status_code : 502
+NCR US,F6YHJW-S-US,Ncr Corporation,response status_code : 502,1
+DKS US,F5TFNZ-S-US,Dick's Sporting Goods,response status_code : 502,1
+9984 JP,BNLKX9-S-JP,SoftBank Group Corp.,1,1
+MMS US,HY2KQH-S-US,"Maximus, Inc.",0,response status_code : 502
+ERICB SS,HR8NLN-S-SE,Telefonaktiebolaget L,1,1
+STAY US,TKPMNN-S-US,Extended Stay America,1,1
+MCO US,C4BW2G-S-US,Moody's Corporation,1,1
+STX US,QXT7RT-S-US,Seagate Technology PLC,1,1
+LEG GR,LS6J6D-S-DE,LEG Immobilien AG,0,0
+NA,WYHN2K-S-US,Modern Times Group Mt,1,1
+BHGE US,C6H18K-S-US,"Baker Hughes, a GE Company Class A",1,1
+HSE CN,WFGLTT-S-CA,Husky Energy Inc.,0,1
+DAL US,K6S3NB-S-US,"Delta Air Lines, Inc.",1,1
+NDAQ US,QP196P-S-US,"Nasdaq, Inc.",0,1
+PANW US,W32HMN-S-US,"Palo Alto Networks, I",1,1
+DTE GR,QMQV1Q-S-DE,Deutsche Telekom AG,0,1
+C US,T6BMPP-S-US,Citigroup Inc.,1,1
+TMO US,LY6R71-S-US,Thermo Fisher Scientific Inc.,1,1
+KORS US,FNBWSQ-S-US,Capri Holdings Limited,1,1
+ZAYO US,GZV1DC-S-US,"Zayo Group Holdings,",1,1
+AJG US,KRRDD7-S-US,Arthur J. Gallagher & Co.,1,1
+AEP US,SW3WLF-S-US,"American Electric Power Company, Inc.",response status_code : 502,response status_code : 502
+APAM US,G18BJK-S-US,"Artisan Partners Asset Management, Inc. Class A",response status_code : 502,response status_code : 502
+INGA NA,SYDPMW-S-NL,ING Groep NV,response status_code : 502,response status_code : 502
+MSG US,GPNFH5-S-US,Madison Square Garden,response status_code : 502,response status_code : 502
+PWR US,WGR10T-S-US,"Quanta Services, Inc.",response status_code : 502,response status_code : 502
+HON US,LKTW6W-S-US,Honeywell International Inc.,response status_code : 502,response status_code : 502
+FE US,TZ642P-S-US,FirstEnergy Corp.,response status_code : 502,1
+SNA US,DBV80B-S-US,Snap-on Incorporated,0,1
+NBL US,WW7382-S-US,"Noble Energy, Inc.",0,1
+APH US,WL12NL-S-US,Amphenol Corporation Class A,1,1
+EVRG US,HR94J3-S-US,"Evergy, Inc.",0,1
+MU US,D1RR34-S-US,"Micron Technology, Inc.",1,1
+VNO US,D9JG61-S-US,Vornado Realty Trust,1,1
+PCTY US,K5VMV3-S-US,Paylocity Holding Cor,1,1
+PKG US,P8PY3Z-S-US,Packaging Corporation of America,1,1
+LMT US,BV8916-S-US,Lockheed Martin Corporation,1,1
+EA US,P7Q9Q7-S-US,Electronic Arts Inc.,1,1
+FIS US,BZT3MC-S-US,"Fidelity National Information Services, Inc.",1,1
+CNP US,PW1X8Y-S-US,"CenterPoint Energy, Inc.",0,1
+BAH US,ST5LQZ-S-US,Booz Allen Hamilton H,1,1
+AMGN US,T8GLHL-S-US,Amgen Inc.,1,1
+AZPN US,M3VV5C-S-US,"Aspen Technology, Inc.",0,1
+TROW US,RWGCRD-S-US,T. Rowe Price Group,1,1
+FISV US,B00CQC-S-US,"Fiserv, Inc.",1,1
+AAPL US,R85KLC-S-US,Apple Inc.,1,1
+TYL US,VPXV41-S-US,"Tyler Technologies, I",1,1
+CREE US,P35SQC-S-US,"Cree, Inc.",1,1
+APA US,VFT77X-S-US,Apache Corporation,1,1
+CMG US,SW780L-S-US,"Chipotle Mexican Grill, Inc.",1,1
+SU CN,MBJF57-S-CA,Suncor Energy Inc.,1,1
+ICP LN,T9RV8C-S-GB,Intermediate Capital,1,1
+VMW US,DVTV6F-S-US,"Vmware, Inc. Class A",1,1
+CSCO US,K14DFC-S-US,"Cisco Systems, Inc.",1,1
+NOW US,W9VPHX-S-US,"Servicenow, Inc.",1,1
+DG US,RMMHNL-S-US,Dollar General Corporation,1,1
+WP US,DH3RVT-S-US,"Worldpay, Inc. Class",1,1
+CIEN US,HF2HLY-S-US,Ciena Corporation,1,1
+A US,BZSQX0-S-US,"Agilent Technologies, Inc.",1,1
+MSFT US,DF3K29-S-US,Microsoft Corporation,1,1
+MPC US,MQLFH7-S-US,Marathon Petroleum Corporation,1,1
+ALXN US,RDKWL9-S-US,"Alexion Pharmaceuticals, Inc.",1,1
+TJX US,VVB1XW-S-US,TJX Companies Inc,1,1
+TRMB US,QXV6LQ-S-US,Trimble Inc.,1,1
+FFH CN,W4J7VJ-S-CA,Fairfax Financial Hol,1,1
+NCLH US,L97VX8-S-US,Norwegian Cruise Line Holdings Ltd.,1,1
+DLB US,SRN308-S-US,"Dolby Laboratories, I",1,1
+SBUX US,H3ZZPR-S-US,Starbucks Corporation,1,1
+MSI CN,SGQT1Z-S-CA,Morneau Shepell Inc.,1,1
+TTWO US,RXH8LB-S-US,"Take-Two Interactive Software, Inc.",1,1
+TSCO US,PM37VG-S-US,Tractor Supply Company,1,1
+PXD US,D3X1KC-S-US,Pioneer Natural Resources Company,1,1
+VRNT US,DMSLZM-S-US,Verint Systems Inc.,"error : HTTPSConnectionPool(host='api.ci.decooda.com', port=443): Max retries exceeded with url: /api/analytics/v2.0/summary?access_token=ab4ca7d8-631f-4cf0-907e-cf2a362445ad (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7facc66d0128>: Failed to establish a new connection: [Errno -2] Name or service not known',))",1
+7532 JP,V74M60-S-JP,Pan Pacific Internati,1,1
